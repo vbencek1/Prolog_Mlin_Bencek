@@ -1,0 +1,13 @@
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\bin\Debug\Prolog_Mlin.exe.config
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\bin\Debug\Prolog_Mlin.exe
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\bin\Debug\Prolog_Mlin.pdb
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\bin\Debug\SwiPlCs.dll
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\bin\Debug\SwiPlCs.xml
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.csprojAssemblyReference.cache
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.Properties.Resources.resources
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.csproj.GenerateResource.cache
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.csproj.CopyComplete
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.exe
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.pdb
+C:\Users\Tino\Downloads\Desktop\Prolog_Mlin_Bencek\Prolog_Mlin\Prolog_Mlin\obj\Debug\Prolog_Mlin.Form1.resources
